@@ -1,0 +1,33 @@
+body{
+
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    background-color: aqua;
+
+} 
+
+.button{
+letter-spacing: 70px;
+font-size: 20px;
+padding: 20px;
+
+
+
+
+
+}
+
+.form {
+    border-radius: 50px;
+    border: 500px;
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 500px;
+    padding-top: 50px;
+   
+}
+
+
